@@ -1,4 +1,5 @@
 # lfs-base
+Rather than provide the entire filesystem, I have here the most vital parts of the operating system, that I most directly engaged with, /bin, /lib and /sources
 # About
 
 ## Why build Linux from scratch?
@@ -13,3 +14,18 @@ Building a Linux system from scratch is not easy, but it also not some insurmoun
 # Packages - 
 ## find a rationalization for each included package here
 [click on Packages tab](http://derric.xyz/lfs-port-page/lfs-overview.html)
+
+
+## bin
+ this directory holds all utlility programs. bin = Binary, holds binaries of executable programs. these are typical for base administration of a linux system.
+ 
+## lib
+holds import library files, linux kernel & modules, udev device programs and management. these help applications to properly execute. 
+
+## sources 
+provides a list of source tar balls needed for every package in this linux system.
+
+## boot
+boot directory, holds grub initramfs and kernel
+ 
+ 
