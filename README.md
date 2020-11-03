@@ -35,6 +35,7 @@ boot directory, holds kernel and grub boot information
 ## Please read these sources if you are interested in linux from scratch.
 
 [Linux from scratch project](http://www.linuxfromscratch.org/lfs/view/stable/index.html)
+
 [Build your own linux project](https://acloud.guru/learn/9bb0f72b-7b03-4c4a-b5b6-684e80c12d42)
 
 [learn about gentoo, a complete and professional from scratch distro](https://www.gentoo.org/)
