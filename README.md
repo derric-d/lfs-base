@@ -1,5 +1,7 @@
 # lfs-base
 Rather than provide the entire filesystem, I have here the most vital parts of the operating system, that I most directly engaged with, /bin, /lib and /sources
+
+[read more here](http://derric.xyz/lfs-port-page/index.html)
 # About
 
 ## Why build Linux from scratch?
