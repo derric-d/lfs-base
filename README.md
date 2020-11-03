@@ -10,3 +10,6 @@ The most common OS utilities come from Gnu Software. These utilities dont necess
 The Linux kernel holds a lion's share of the unix market and makes it the most accessible and approachable. The opensource development of the kernel makes it possible for anyone to theoretically take part in it's development and be a part of it's community. This also encourages those weary of commercial software to take part in making the open source option a viable consumer OS. With a driven community, the linux OS family is always growing in the desktop consumer market and we see an ever strong hold on the server market.
 
 Building a Linux system from scratch is not easy, but it also not some insurmountable obstacle. It requires diligent research, a solid base understanding of the unix shell, the know how of building software from source and a bit of patience. What you get out of it is a completely custom system, a deep understanding of that system, and hopefully a linux takes special place in your development workflow.
+# Packages - 
+## find a rationalization for each included package here
+[click on Packages tab](http://derric.xyz/lfs-port-page/lfs-overview.html)
