@@ -19,16 +19,16 @@ Building a Linux system from scratch is not easy, but it also not some insurmoun
 
 
 ## bin
- this directory holds all utlility programs. bin = Binary, holds binaries of executable programs. these are typical for base administration of a linux system.
+ This directory holds all utlility programs. /bin = Binary, holds binaries of executable programs. These are typical for base administration of a linux system.
  
 ## lib
-holds import library files, linux kernel & modules, udev device programs and management. these help applications to properly execute. 
+Holds import library files, linux kernel & modules, udev device programs and management. These help applications to properly execute. 
 
 ## sources 
-provides a list of source tar balls needed for every package in this linux system.
+Provides a list of source tar balls needed for every package in this linux system.
 
 ## boot
-boot directory, holds kernel and grub boot information
+Boot directory, holds kernel and grub boot information
 
 
 # Related
