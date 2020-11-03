@@ -26,6 +26,6 @@ holds import library files, linux kernel & modules, udev device programs and man
 provides a list of source tar balls needed for every package in this linux system.
 
 ## boot
-boot directory, holds grub initramfs and kernel
+boot directory, holds kernel and grub boot information
  
  
